@@ -1,2 +1,2 @@
 # Gitcommanddemo-
-Testing out git commands
+Testing out git commands to learn push and pull.
